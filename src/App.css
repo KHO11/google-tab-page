@@ -1,0 +1,184 @@
+.App {
+  text-align: center;
+}
+
+.googleName {
+  width : 300px;
+  height : 100px;
+  margin-top: 90px;
+}
+
+form button {
+  
+  padding: 6px 10px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+form button:hover {
+  background: #ccc;
+}
+
+form input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  
+}
+
+form input {
+  height : 16px;
+}
+
+.topInfo {
+  margin-left: 700px;
+  margin-top: 100px;
+}
+
+.topImage {
+  margin-left: 100px;
+  margin-top: 100px;
+}
+
+.skypeApp{
+  position: relative;
+  height:3%;
+  width:3%;
+  left:70px;
+}
+
+.skypeName {
+  position: relative;
+  left : 30px;
+  top : 30px;
+}
+
+.gmailApp {
+  width : 3%;
+  height: 3%;
+  position : relative;
+  left: 150px;
+  bottom:5px;
+}
+
+.gmailName {
+  position: relative;
+  left : 105px;
+  top : 30px;
+}
+
+.whatsAPP {
+  width:3%;
+  height: 3%;
+  position: relative;
+  left:250px;
+  top:5px;
+}
+
+.whatsappName {
+  position: relative;
+  top:30px;
+  left:195px;
+}
+
+.facebook{
+  position: relative;
+  width: 3%;
+  height: 3%;
+  top:5px;
+  left: 300px;
+}
+
+.facebookName {
+  position: relative;
+  top: 30px;
+  left: 250px;
+}
+
+.twitter {
+  position: relative;
+  width: 3%;
+  height:3%;
+  top:6px;
+  left:370px;
+}
+
+.twitterName {
+  position: relative;
+  top:30px;
+  left:330px;
+}
+
+.discord {
+  position: relative;
+  width: 4%;
+  height:4%;
+  top:120px;
+  right:415px;
+}
+
+.discordName {
+  position: relative;
+  top:150px;
+  right: 465px;
+}
+
+.instagram {
+  position: relative;
+  width: 4%;
+  height:4%;
+  top:120px;
+  right:360px;
+}
+
+.instagramName {
+  position: relative;
+  top:150px;
+  right:420px;
+}
+
+.tikTok {
+  position : relative;
+  width:3%;
+  height:3%;
+  top:120px;
+  right:290px;
+}
+
+.tiktokName {
+  position: relative;
+  top:150px;
+  right:335px;
+
+}
+
+.snapchat {
+  position: relative;
+  width:4%;
+  height:4%;
+  top:125px;
+  right:225px;
+}
+
+.snapchatName {
+  position: relative;
+  top:150px;
+  right:285px;
+}
+
+.linkedin {
+  position: relative;
+  width:3%;
+  height: 3%;
+  top:120px;
+  right:160px;
+}
+
+.linkedinName {
+  position: relative;
+  top:150px;
+  right:210px;
+}
+
